@@ -3,7 +3,7 @@
 - 🇵🇭 I am a Software Engineer from the Philippines
 - 🌱 I’m currently learning Rust and Kubernetes
 - 👯 I’m looking to collaborate on more open source Rust projects
-- 📫 How to reach me: You can email me here ralphmungcal09@gmail.com
+- 💪 I like learning and exploring new tech
 
 ## Recent Activities 💪
 
@@ -22,3 +22,7 @@
 ### Database 💽
 
 <img src="https://img.icons8.com/officel/50/000000/mysql.png"/> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/> <img src="https://img.icons8.com/color/50/000000/redis.png"/>
+
+## Connect with me 📫
+
+<a href="mailto:ralphmungcal09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="asp143" /></a></p> <a href="https://www.linkedin.com/in/ralphjonasmungcal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="asp143" /></a>
