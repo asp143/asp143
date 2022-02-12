@@ -13,7 +13,7 @@
 
 ### Languages ✍🏼
 
-<img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-tritone-tal-revivo.png"/> <img src="https://img.icons8.com/small/50/000000/nodejs.png"/> <img src="https://img.icons8.com/offices/50/000000/react.png"/>
+<img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-tritone-tal-revivo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/offices/50/000000/react.png"/>
 
 ### DevOps & Cloud Tools⚒️
 
