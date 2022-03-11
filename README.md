@@ -13,15 +13,15 @@
 
 ### Languages ✍🏼
 
-<img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/50/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-green-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/offices/50/000000/react.png"/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,react,rust)](https://skillicons.dev)
 
 ### DevOps & Cloud Tools ⚒️
 
-<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/cute-clipart/50/000000/amazon.png"/> <img src="https://img.icons8.com/color/50/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://img.icons8.com/color/50/000000/github.png"/> <img src="https://img.icons8.com/fluency/50/000000/docker.png"/> <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/50/000000/linux--v2.png"/>
+<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/cute-clipart/50/000000/amazon.png"/> <img src="https://img.icons8.com/color/50/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/50/000000/git.png"/><img src="https://img.icons8.com/color/50/000000/linux--v2.png"/>[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,vim)](https://skillicons.dev)
 
 ### Database 💽
 
-<img src="https://img.icons8.com/officel/50/000000/mysql.png"/> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/> <img src="https://img.icons8.com/color/50/000000/redis.png"/>
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,redis)](https://skillicons.dev)
 
 ## Connect with me 📫
 
