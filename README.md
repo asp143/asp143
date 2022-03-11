@@ -17,7 +17,7 @@
 
 ### DevOps & Cloud Tools ⚒️
 
-<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/cute-clipart/50/000000/amazon.png"/> <img src="https://img.icons8.com/color/50/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/50/000000/git.png"/><img src="https://img.icons8.com/color/50/000000/linux--v2.png"/>[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,vim)](https://skillicons.dev)
+<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/cute-clipart/50/000000/amazon.png"/> <img src="https://img.icons8.com/color/50/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/50/000000/linux--v2.png"/>[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,vim)](https://skillicons.dev)
 
 ### Database 💽
 
