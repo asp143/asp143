@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on more open source Rust projects
 - 💪 I like learning and exploring new tech
 
-## Recent Activities 💪
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asp143&theme=dracula&hide_border=true)
-
 ## Technologies ⚙️
 
 ### Languages ✍🏼
