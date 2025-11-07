@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="https://images5.alphacoders.com/134/thumb-1920-1345292.png" width="500">
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## Hello! I am [Ralph](https://asp143.github.io) 👋
