@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ralph%20Mungcal&section=header&desc=Solution%20Architect%20|%20OpenSourcerer&descAlign=49&descAlignY=66&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:36BCF7FF,100:36BCF7FF&text=Ralph%20Mungcal&section=header&desc=Solution%20Architect%20|%20OpenSourcerer&descAlign=49&descAlignY=66&reversal=true" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=It+works+on+my+machine+-+Ralph" alt="Typing SVG" /></a>
 
@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Rust and Kubernetes
 - 👯 I’m looking to collaborate on more open source Rust projects
 - 💪 I like learning and exploring new tech
-<br/>
+  <br/>
 
 <table align="center">
   <tr>
