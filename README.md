@@ -107,7 +107,7 @@ impl Ralph {
 
 ### AI Pair Programming
 
-[![My Skills](https://skillicons.dev/icons?i=claude,openai)](https://skillicons.dev)
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /></a> <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
 
 *Claude Code & Codex - because rubber duck debugging evolved. The duck talks back now.*
 
